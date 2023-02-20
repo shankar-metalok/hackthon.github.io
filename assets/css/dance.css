@@ -1,0 +1,32 @@
+.logs-section{
+    display: flex;
+    justify-content: center;
+    gap:30px;
+}
+
+
+.logo-parent1{
+    width: 80px;
+    height: 26px;
+}
+.logo-parent2{
+width: 50px;
+height: 40px;
+}
+
+.logo-parent3{
+    width: 40px;
+    height: 40px;
+}
+
+.logs-section img{ 
+width: 100%;
+height: 100%;
+}
+
+
+.th-text{
+    text-transform: lowercase;
+    /* vertical-align: sub;   */
+    vertical-align:super;
+}
